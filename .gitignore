@@ -1,0 +1,4 @@
+qr-gen
+obj
+*.png
+.DS_Store
